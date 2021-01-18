@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dist",
+    "\\docs",
     "\\src",
-    "\\src\\helpers",
-    "\\src\\icons",
-    "\\src\\public",
-    "\\src\\public\\img",
-    "\\src\\scenes",
-    "\\src\\scenes\\ServiceDetailsContainer",
-    "\\src\\scenes\\ServiceDetailsContainer\\components",
-    "\\src\\services"
+    "\\src\\helpers"
   ],
-  "SelectedNode": "\\src\\services\\ProductsService.js",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }

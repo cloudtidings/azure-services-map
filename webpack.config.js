@@ -152,10 +152,10 @@ module.exports = {
       } : undefined),
       meta: [
         {name: "twitter:card", content: "summary"},
-        {property: "og:url", content: "https://"+(appEnv=='prod' ? '' : (appEnv+'.'))+"azureservices.io"},
+        {property: "og:url", content: "https://"+(appEnv=='prod' ? '' : (appEnv+'.'))+"azservices.azurewebsites.net"},
         {property: "og:title", content: "Azure Services Reference Map"},
         {property: "og:description", content: "Find how Azure services are interconnected"},
-        {property: "og:image", content: "https://"+(appEnv=='prod' ? '' : (appEnv+'.'))+"azureservices.io/img/og-image.png"},
+        {property: "og:image", content: "https://"+(appEnv=='prod' ? '' : (appEnv+'.'))+"azservices.azurewebsites.net/img/og-image.png"},
       ]
     }),    
     new Dotenv({
